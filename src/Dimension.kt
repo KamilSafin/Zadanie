@@ -1,0 +1,1 @@
+data class Dimension(val a: Int, val b: Int, val c: Int)
